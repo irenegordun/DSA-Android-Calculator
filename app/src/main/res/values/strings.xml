@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">edu.upc.dsa.calculadora</string>
+    <!--numeros-->
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn9">9</string>
+    <!--operacions-->
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_div">÷</string>
+    <string name="btn_mult">x</string>
+    <string name="btn_restar">+</string>
+    <string name="btn_sumar">-</string>
+    <!--altres botons-->
+    <string name="btnc">c</string>
+    <string name="btn_igual">=</string>
+    <!--display-->
+    <string name="display">Intro un valor</string>
+</resources>
